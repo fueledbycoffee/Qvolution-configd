@@ -24,6 +24,7 @@ mig(helper/helper.defs)
 # re-implemented from scratch or kept as a stub.
 
 set(sc_sources
+	../darling/src/SystemConfiguration.fproj/ImportCompatibility.c
 	../darling/src/SystemConfiguration.fproj/stubs.c
 	../darling/src/SystemConfiguration.fproj/stubs.cpp
 	#helper/SCHelper_client.c
